@@ -1,0 +1,5 @@
+export function MyButton() {
+  return (
+    <button className="bg-purple text-white border-2 border-white p-5 w-48">Contactez moi !</button>
+  );
+}

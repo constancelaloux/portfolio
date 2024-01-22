@@ -1,3 +1,5 @@
+Portfolio créé en react@18.2.0 avec tailwindcss@3.3.3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
